@@ -19,5 +19,4 @@ Contents
 .. toctree::
 
    overview
-   usage
-   api
+   bulk-calculations
