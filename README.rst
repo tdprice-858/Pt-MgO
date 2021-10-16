@@ -7,3 +7,7 @@ with some basic Sphinx docs.
 Read the tutorial here:
 
 https://docs.readthedocs.io/en/stable/tutorial/
+
+Webpage for Pt/MgO project:
+
+https://pt-mgo.readthedocs.io/en/latest/
