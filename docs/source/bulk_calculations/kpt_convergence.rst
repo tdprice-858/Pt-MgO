@@ -1,5 +1,5 @@
 K-point convergence
-------------
+=============
 
 Vasp Parameters
 
