@@ -9,6 +9,7 @@ Bulk Calculations
    bulk_calculations/encut_convergence
    bulk_calculations/sigma_and_ismear
    bulk_calculations/functional_benchmarking
+   bulk_calculations/references
    
    :caption: Contents:
 
