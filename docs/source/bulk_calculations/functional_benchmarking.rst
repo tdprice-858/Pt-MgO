@@ -4,8 +4,10 @@ Functional Benchmarking
 Overview
 -------
 
-Properties
+Properties - Physical Accuracy
 -------
+Need to quantify how accurate DFT predictions are for specified property of interest.
+
 
 B3LYP
 -------
