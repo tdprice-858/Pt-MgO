@@ -3,6 +3,7 @@ Functional Benchmarking
 
 Overview
 -------
+
 what functional to use? 
 
 * Need to balance physical accuracy with computational cost.
@@ -17,6 +18,7 @@ what functional to use?
 
 Properties - Physical Accuracy
 -------
+
 Need to quantify how accurate DFT predictions are for specified property of interest.
 
 
