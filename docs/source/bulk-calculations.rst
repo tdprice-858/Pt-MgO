@@ -2,7 +2,7 @@ Bulk Calculations
 =====
 
 .. toctree::
-   :maxdepth: 4
+   :maxdepth: 8
 
    bulk_calculations/overview
    bulk_calculations/kpt_convergence
