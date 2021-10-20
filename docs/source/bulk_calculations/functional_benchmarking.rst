@@ -8,11 +8,11 @@ what functional to use?
 * Need to balance physical accuracy with computational cost.
 
 * Need to focus on properties of interest.
- * Binding energies.
- * Reaction barriers.
- * Vibrational frequencies.
- * TS geometries.
- * Minimum energy geometries.
+ * Binding energies
+ * Reaction barriers
+ * Vibrational frequencies
+ * TS geometries
+ * Minimum energy geometries
 
 
 Properties - Physical Accuracy
