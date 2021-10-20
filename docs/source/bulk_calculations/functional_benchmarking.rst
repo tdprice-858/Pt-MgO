@@ -15,6 +15,7 @@ what functional to use?
  * TS geometries
  * Minimum energy geometries
 
+How do we address the physical phenomena that influence performance of real catalyst that are not included in DFT calculations.
 
 Properties - Physical Accuracy
 -------
