@@ -15,7 +15,17 @@ what functional to use?
  * TS geometries
  * Minimum energy geometries
 
-How do we address the physical phenomena that influence performance of real catalyst that are not included in DFT calculations.
+How do we address the physical phenomena that influence performance of real catalyst that are not included in DFT calculations?
+Do we need to worry about self-interaction errors? ( hybrid functionals can partially correct for this) 
+Does our system have strong electron correlation?
+
+* Known Systems with self-interaction errors
+ * actinides
+ * various transition-metal oxides that have partially filled d or f shells
+
+Magnesium is a group 2 alkaline earth metal ( electron configuration [Ne] 3s2)
+
+However in MgO, we are interested in the impact of oxygen vacancies and different substitutions of Pt. These systems should be explored for strong electron correlation
 
 Properties - Physical Accuracy
 -------
