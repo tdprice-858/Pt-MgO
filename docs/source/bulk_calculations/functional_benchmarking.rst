@@ -8,7 +8,8 @@ what functional to use?
 
 * Need to balance **physical accuracy** with **computational cost**.
 
-* Need to focus on properties of interest.
+Need to focus on properties of interest.
+
  * Binding energies
  * Reaction barriers
  * Vibrational frequencies
@@ -55,8 +56,16 @@ Types of functionals
  #. **Emperical** - Fitted to large training sets
  #. **Non-Emperical** - Derived from first principles using constraints known from quantum mechanics
 * **Meta-GGA**
+ * Includes higher order density gradients 
+ * includes the orbital kinetic energy density
 * **Hybrids**
+ * Combine exact exhange from Hartree-Fock with GGA method
+ * Optimizing functional fitting coefficients is usually performed on experimental data
 * **Hybrid-metta GGA**
+ * Hybrid mixed with meta GGA
+
+Functional Selection
+-------------
 
 
 B3LYP
@@ -65,7 +74,8 @@ B3LYP
 SCAN 
 ----------
 
-
+BEEF-vdw
+----------
 
 References
 --------
@@ -74,6 +84,7 @@ References
 
 #. General Performance of Density Functionals Sérgio Filipe Sousa, Pedro Alexandrino Fernandes, and Maria João Ramos The Journal of Physical Chemistry A 2007 111 (42), 10439-10452 DOI: 10.1021/jp0734474
 
+#. https://youtu.be/03Y0v4Ys3_A (SCAN meta-GGA: predictive power of 17 constraints)
 
 
 
