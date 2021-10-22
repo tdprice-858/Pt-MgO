@@ -36,6 +36,10 @@ Need to quantify how accurate DFT predictions are for specified property of inte
 B3LYP
 -------
 
+SCAN 
+----------
+
+
 
 References
 --------
