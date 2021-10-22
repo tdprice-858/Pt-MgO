@@ -4,6 +4,8 @@ Functional Benchmarking
 Overview
 -------
 
+"The right answer for the right reason at the right price." John P. Perdew
+
 what functional to use? 
 
 * Need to balance **physical accuracy** with **computational cost**.
@@ -73,6 +75,8 @@ B3LYP
 
 SCAN 
 ----------
+
+
 
 BEEF-vdw
 ----------
