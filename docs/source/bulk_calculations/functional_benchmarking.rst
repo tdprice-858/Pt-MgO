@@ -45,3 +45,9 @@ References
 --------
 
 https://youtu.be/Ey00F_vsIiY (Benchmarking DFT and beyond-DFT methods for thermodynamics and electronic properties - Geoffroy Hautier)
+
+* Things to consider when benchmarking
+ * Is data directly comparable to ab initio (temp, pure sample, etc)
+ * Is data diverse
+ * What are the error bars for experimental measurements?
+ * Use several sources to prevent bias
