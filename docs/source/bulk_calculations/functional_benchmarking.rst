@@ -4,7 +4,7 @@ Functional Benchmarking
 Overview
 -------
 
-"The right answer for the right reason at the right price." John P. Perdew
+*"The right answer for the right reason at the right price."* John P. Perdew
 
 what functional to use? 
 
@@ -76,6 +76,13 @@ B3LYP
 SCAN 
 ----------
 
+There are many different flavors of SCAN.
+
+#. SCAN
+
+#. RSCAN
+
+#. R2SCAN
 
 
 BEEF-vdw
