@@ -1,1 +1,1 @@
-# Data lives on box. Put data/ is in .gitignore
+This repository contains various ongoing coding projects.
