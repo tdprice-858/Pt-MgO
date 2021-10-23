@@ -98,7 +98,7 @@ SCAN performs well in:
 * Short range weak interactions (hydrogen-bonds and vdW interactions for closed shell molecules)
  * No semilocal functional can capture long-range vdW interactions (need correction)
 
-SCAN performs better than PBEsol and PBE for the reactions tested (
+SCAN performs better than PBEsol and PBE for the reactions tested (ref 5 - Shows the benchmark database-Barrier Heights for Heavy Atom Transfer, Nucleophilic Substitution, Association, and Unimolecular Reactions - hydrogen and non-hydrogen transfer **gas-phase** reactions)
 
 HSE - Heyd-Scuseria-Ernzerhof
 ----------
