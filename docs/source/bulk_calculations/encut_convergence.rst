@@ -13,3 +13,7 @@ grep ENMAX O/POTCAR
    ENMAX  =  400.000; ENMIN  =  300.000 eV
 
 ENCUT = 1.3*400 = 520 eV
+
+Encut Convergence
+---------
+.. image:: ../../../figures/MgO-Encut-convergence.png
