@@ -1,14 +1,23 @@
 Bulk Calculations
 =====
 
-Overview
-------------
+.. toctree::
+   :maxdepth: -1
 
-Calculations of the bulk MgO and Pt/MgO models will be considered here
+   bulk_calculations/overview
+   bulk_calculations/kpt_convergence
+   bulk_calculations/encut_convergence
+   bulk_calculations/ediff_and_ediffg
+   bulk_calculations/sigma_and_ismear
+   bulk_calculations/functional_benchmarking
+   bulk_calculations/numerical_errors
+   bulk_calculations/references
+   
+   :caption: Contents:
 
-K-point convergence
-------------
 
-Functional Benchmarking
-----------
+
+
+
+
 
