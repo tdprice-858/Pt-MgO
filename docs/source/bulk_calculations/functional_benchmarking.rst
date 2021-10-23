@@ -88,7 +88,17 @@ PBEsol
 SCAN - Strongly Constrained and Appropriately Normed Semilocal Density Functional 
 ----------
 
+SCAN was constructed by Perdews team and is the first meta-GGA that is fully constrained to all 17 known exact constraints 
 
+It is not fitted to any bonded system
+
+SCAN performs well in:
+* atomization energies
+* lattice constants of solids
+* Short range weak interactions (hydrogen-bonds and vdW interactions for closed shell molecules)
+ * No semilocal functional can capture long-range vdW interactions (need correction)
+
+SCAN performs better than PBEsol and PBE for the reactions tested (
 
 HSE - Heyd-Scuseria-Ernzerhof
 ----------
@@ -109,6 +119,8 @@ References
 #. https://youtu.be/03Y0v4Ys3_A (SCAN meta-GGA: predictive power of 17 constraints)
 
 #. Strongly Constrained and Appropriately Normed Semilocal Density Functional. Jianwei Sun, Adrienn Ruzsinszky, and John P. Perdew. Phys. Rev. Lett. 115, 036402 – Published 14 July 2015
+
+#. Benchmark Database of Barrier Heights for Heavy Atom Transfer, Nucleophilic Substitution, Association, and Unimolecular Reactions and Its Use to Test Theoretical Methods. Yan Zhao, Núria González-García, and Donald G. Truhlar. The Journal of Physical Chemistry A 2005 109 (9), 2012-2018. DOI: 10.1021/jp045141s
 
 
 
