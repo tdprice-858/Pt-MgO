@@ -122,5 +122,6 @@ References
 
 #. Benchmark Database of Barrier Heights for Heavy Atom Transfer, Nucleophilic Substitution, Association, and Unimolecular Reactions and Its Use to Test Theoretical Methods. Yan Zhao, Núria González-García, and Donald G. Truhlar. The Journal of Physical Chemistry A 2005 109 (9), 2012-2018. DOI: 10.1021/jp045141s
 
+#. Accuracy of Density Functional Theory for Predicting Kinetics of Methanol Synthesis from CO and CO2 Hydrogenation on Copper. Maliheh Shaban Tameh, Albert K. Dearden, and Chen Huang. The Journal of Physical Chemistry C 2018 122 (31), 17942-17953. DOI: 10.1021/acs.jpcc.8b06498
 
 
