@@ -58,6 +58,7 @@ Types of functionals
  * two broad classes of GGAs:
  #. **Emperical** - Fitted to large training sets
  #. **Non-Emperical** - Derived from first principles using constraints known from quantum mechanics
+ *known to overestimate the adsorption energies of molecules on transition metals
 * **Meta-GGA**
  * Includes higher order density gradients 
  * includes the orbital kinetic energy density, which is computed from orbitals that are functionals of the density
