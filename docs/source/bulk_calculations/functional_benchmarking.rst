@@ -60,7 +60,7 @@ Types of functionals
  #. **Non-Emperical** - Derived from first principles using constraints known from quantum mechanics
 * **Meta-GGA**
  * Includes higher order density gradients 
- * includes the orbital kinetic energy density
+ * includes the orbital kinetic energy density, which is computed from orbitals that are functionals of the density
 * **Hybrids**
  * Combine exact exhange from Hartree-Fock with GGA method
  * Optimizing functional fitting coefficients is usually performed on experimental data
@@ -88,6 +88,8 @@ PBEsol
 SCAN - Strongly Constrained and Appropriately Normed Semilocal Density Functional 
 ----------
 
+
+
 HSE - Heyd-Scuseria-Ernzerhof
 ----------
 
@@ -105,6 +107,8 @@ References
 #. General Performance of Density Functionals Sérgio Filipe Sousa, Pedro Alexandrino Fernandes, and Maria João Ramos The Journal of Physical Chemistry A 2007 111 (42), 10439-10452 DOI: 10.1021/jp0734474
 
 #. https://youtu.be/03Y0v4Ys3_A (SCAN meta-GGA: predictive power of 17 constraints)
+
+#. Strongly Constrained and Appropriately Normed Semilocal Density Functional. Jianwei Sun, Adrienn Ruzsinszky, and John P. Perdew. Phys. Rev. Lett. 115, 036402 – Published 14 July 2015
 
 
 
