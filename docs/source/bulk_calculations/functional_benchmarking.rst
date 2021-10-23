@@ -4,11 +4,12 @@ Functional Benchmarking
 Overview
 -------
 
-*"The right answer for the right reason at the right price."* John P. Perdew
+"The right answer for the right reason at the right price." John P. Perdew
 
 what functional to use? 
 
 * Need to balance **physical accuracy** with **computational cost**.
+* Also want to make sure trends are correct
 
 Need to focus on properties of interest.
 
@@ -69,23 +70,31 @@ Types of functionals
 Functional Selection
 -------------
 
+LDA
+-----
 
 B3LYP
 -------
 
-SCAN 
+PBE - Perdew-Burke-Ernzerhof
+------------
+
+RPBE - Revised Perdew-Burke-Ernzerhof
+---------
+
+PBEsol
+-------
+
+SCAN - Strongly Constrained and Appropriately Normed Semilocal Density Functional 
 ----------
 
-There are many different flavors of SCAN.
+HSE - Heyd-Scuseria-Ernzerhof
+----------
 
-#. SCAN
+RPA - Random Phase Approximation
+----------
 
-#. RSCAN
-
-#. R2SCAN
-
-
-BEEF-vdw
+BEEF-vdw 
 ----------
 
 References
