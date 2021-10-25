@@ -75,14 +75,6 @@ Types of functionals
 Functional Selection
 -------------
 
-.. toctree::
-   :maxdepth: -1
-
-functional_selection/SCAN
-
-   :caption: Contents:
-
-
 LDA
 -----
 
