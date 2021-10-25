@@ -108,6 +108,12 @@ SCAN performs well in:
 
 SCAN performs better than PBEsol and PBE for the reactions tested (ref 5 - Shows the benchmark database-Barrier Heights for Heavy Atom Transfer, Nucleophilic Substitution, Association, and Unimolecular Reactions - hydrogen and non-hydrogen transfer **gas-phase** reactions)
 
+From ref. 7, SCAN is proposed to work better than PBE for defects in semiconductors, surface properties of metals, formation energies and structural phase transitions in semiconductorsl. Good at predicting band gap.
+
+Typically a much lower computational cost than Hybrid functionals.
+
+**Regularized SCAN functional**
+
 HSE - Heyd-Scuseria-Ernzerhof
 ----------
 
