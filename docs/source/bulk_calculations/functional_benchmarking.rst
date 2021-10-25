@@ -85,6 +85,7 @@ B3LYP
 
 PBE - Perdew-Burke-Ernzerhof
 ------------
+Constructed to satisfy 11 exact constraints. 
 
 RPBE - Revised Perdew-Burke-Ernzerhof
 ---------
@@ -97,7 +98,7 @@ SCAN - Strongly Constrained and Appropriately Normed Semilocal Density Functiona
 
 SCAN was constructed by Perdews team and is the first meta-GGA that is fully constrained to all 17 known exact constraints 
 
-It is not fitted to any bonded system
+It is not fitted to any bonded system. It is fitted to norms, non-bonded systems such as atoms in which it can be accurate for the exchange and correlation energies separately, and not just their sum as in bonded systems.
 
 SCAN performs well in:
 * atomization energies
@@ -133,4 +134,4 @@ References
 
 #. Accuracy of Density Functional Theory for Predicting Kinetics of Methanol Synthesis from CO and CO2 Hydrogenation on Copper. Maliheh Shaban Tameh, Albert K. Dearden, and Chen Huang. The Journal of Physical Chemistry C 2018 122 (31), 17942-17953. DOI: 10.1021/acs.jpcc.8b06498
 
-
+#. https://templeefrc.org/scan-overview
