@@ -15,6 +15,7 @@ Need to focus on properties of interest.
 
  * Binding energies
  * Reaction barriers
+ * Reaction energetics (gibbs free energy changes)
  * Vibrational frequencies
  * TS geometries
  * Minimum energy geometries
@@ -67,6 +68,9 @@ Types of functionals
  * Optimizing functional fitting coefficients is usually performed on experimental data
 * **Hybrid-metta GGA**
  * Hybrid mixed with meta GGA
+* **ONIOM** - Our own n-layered Integrated molecular Orbital and Molecular mechanics
+ * Computational hybrid method that enables different ab initio or semi-empirical methods to be applied to different parts of a molecule/system in combination to produce reliable geometry and energy at reduced computational cost
+ * Can combine different functions like (PBE/HSE)
 
 Functional Selection
 -------------
@@ -76,6 +80,8 @@ LDA
 
 B3LYP
 -------
+
+* Contains a portion of Hartree-Fock exchange and cannot be used on solids
 
 PBE - Perdew-Burke-Ernzerhof
 ------------
@@ -109,6 +115,8 @@ RPA - Random Phase Approximation
 
 BEEF-vdw 
 ----------
+
+
 
 References
 --------
