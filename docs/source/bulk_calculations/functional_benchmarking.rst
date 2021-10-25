@@ -63,6 +63,7 @@ Types of functionals
 * **Meta-GGA**
  * Includes higher order density gradients 
  * includes the orbital kinetic energy density, which is computed from orbitals that are functionals of the density
+ * Due to inclusion of orbital kinetic energy density with electron density and its gradients, meta-GGAs have more flexibilty
 * **Hybrids**
  * Combine exact exhange from Hartree-Fock with GGA method
  * Optimizing functional fitting coefficients is usually performed on experimental data
@@ -96,7 +97,7 @@ PBEsol
 SCAN - Strongly Constrained and Appropriately Normed Semilocal Density Functional 
 ----------
 
-SCAN was constructed by Perdews team and is the first meta-GGA that is fully constrained to all 17 known exact constraints 
+SCAN was constructed by Perdews team and is the first meta-GGA that is fully constrained to all 17 known exact constraints that a semi-local function can satisfy 
 
 It is not fitted to any bonded system. It is fitted to norms, non-bonded systems such as atoms in which it can be accurate for the exchange and correlation energies separately, and not just their sum as in bonded systems.
 
@@ -108,11 +109,17 @@ SCAN performs well in:
 
 SCAN performs better than PBEsol and PBE for the reactions tested (ref 5 - Shows the benchmark database-Barrier Heights for Heavy Atom Transfer, Nucleophilic Substitution, Association, and Unimolecular Reactions - hydrogen and non-hydrogen transfer **gas-phase** reactions)
 
-From ref. 7, SCAN is proposed to work better than PBE for defects in semiconductors, surface properties of metals, formation energies and structural phase transitions in semiconductorsl. Good at predicting band gap.
+From ref. 7, SCAN is proposed to work better than PBE for defects in semiconductors, surface properties of metals, formation energies and structural phase transitions in semiconductors. Good at predicting band gap.
 
 Typically a much lower computational cost than Hybrid functionals.
 
+**Limitations**
+
+* no SCAN-specific pseudopotentials are available for use in VASP
+
 **Regularized SCAN functional**
+
+From ref.  8, proposed modifications to functional form to eliminate numerical instabilities.
 
 HSE - Heyd-Scuseria-Ernzerhof
 ----------
@@ -141,3 +148,5 @@ References
 #. Accuracy of Density Functional Theory for Predicting Kinetics of Methanol Synthesis from CO and CO2 Hydrogenation on Copper. Maliheh Shaban Tameh, Albert K. Dearden, and Chen Huang. The Journal of Physical Chemistry C 2018 122 (31), 17942-17953. DOI: 10.1021/acs.jpcc.8b06498
 
 #. https://templeefrc.org/scan-overview
+
+#. Albert P. Bartók and Jonathan R. Yates , "Regularized SCAN functional", J. Chem. Phys. 150, 161101 (2019) https://doi.org/10.1063/1.5094646
