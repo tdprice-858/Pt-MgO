@@ -21,9 +21,9 @@ Encut Convergence
 Computational Cost Data
 -------
 
-opt_300_444/OUTCAR:                         Elapsed time (sec):     1290.629
-opt_350_444/OUTCAR:                         Elapsed time (sec):    14677.112
-opt_400_444/OUTCAR:                         Elapsed time (sec):    20174.887
-opt_450_444/OUTCAR:                         Elapsed time (sec):    10391.935
-opt_500_444/OUTCAR:                         Elapsed time (sec):     4593.733
-opt_550_444/OUTCAR:                         Elapsed time (sec):     3637.514
+| opt_300_444/OUTCAR:                         Elapsed time (sec):     1290.629
+| opt_350_444/OUTCAR:                         Elapsed time (sec):    14677.112
+| opt_400_444/OUTCAR:                         Elapsed time (sec):    20174.887
+| opt_450_444/OUTCAR:                         Elapsed time (sec):    10391.935
+| opt_500_444/OUTCAR:                         Elapsed time (sec):     4593.733
+| opt_550_444/OUTCAR:                         Elapsed time (sec):     3637.514
