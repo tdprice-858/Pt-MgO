@@ -127,6 +127,12 @@ HSE - Heyd-Scuseria-Ernzerhof
 RPA - Random Phase Approximation
 ----------
 
+|Bohm and Pines' RPA accounts for the weak screened Coulomb interaction and is commonly used for describing the dynamic linear electronic response of electron systems
+|Electrons are assumed to respond only to the total electric potential V(r) which is the sum of the external perturbing potential Vext(r) and a screening potential Vsc(r).
+|The external perturbing potential is assumed to oscillate at a single frequency ω, so that the model yields via a self-consistent field (SCF) method [4] a dynamic dielectric function denoted by εRPA(k, ω).
+
+* RPA tends to underestimate binding energies
+
 BEEF-vdw 
 ----------
 
