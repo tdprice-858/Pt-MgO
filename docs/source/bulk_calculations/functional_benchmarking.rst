@@ -9,14 +9,17 @@ Overview
 what functional to use? 
 
 * Need to balance **physical accuracy** with **computational cost**.
-* Also want to make sure trends are correct
+* Also want to make sure **trends** are correct
 
 Need to focus on properties of interest.
 
  * Binding energies
+  * Isolated molecules (bond distances and angles)
+  * Equilibrium bond distance (between adsorbate and surface)
  * Reaction barriers
  * Reaction energetics (gibbs free energy changes)
  * Vibrational frequencies
+  * Infrared Spectroscopy
  * TS geometries
  * Minimum energy geometries
 
@@ -156,3 +159,5 @@ References
 #. https://templeefrc.org/scan-overview
 
 #. Albert P. Bartók and Jonathan R. Yates , "Regularized SCAN functional", J. Chem. Phys. 150, 161101 (2019) https://doi.org/10.1063/1.5094646
+
+#. Michal Bajdich, Jens K. Nørskov, and Aleksandra Vojvodic Phys. Rev. B 91, 155401 – Published 1 April 2015
