@@ -24,6 +24,7 @@ Effect of SIGMA and ISMEAR
 -----------------
 The following values were used as a default for a metallic system for the k-pt convergence testing: sigma=0.2,ismear=1.
 
+However, MgO is a semiconductor. Not currently sure what Pt/MgO would be considered.
 
 Computational Expense
 ------
