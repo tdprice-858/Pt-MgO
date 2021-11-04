@@ -28,9 +28,9 @@ The following values were used as a default for a metallic system for the k-pt c
 Computational Expense
 ------
 
-0.001 did not converge
-0.05/opt_300_444/OUTCAR:                         Elapsed time (sec):    18432.327
-0.1/opt_300_444/OUTCAR:                         Elapsed time (sec):     1233.967
-0.2/opt_300_444/OUTCAR:                         Elapsed time (sec):     1255.606
-0.5/opt_300_444/OUTCAR:                         Elapsed time (sec):     1374.226
+| 0.001 did not converge
+| 0.05/opt_300_444/OUTCAR:                         Elapsed time (sec):    18432.327
+| 0.1/opt_300_444/OUTCAR:                         Elapsed time (sec):     1233.967
+| 0.2/opt_300_444/OUTCAR:                         Elapsed time (sec):     1255.606
+| 0.5/opt_300_444/OUTCAR:                         Elapsed time (sec):     1374.226
 
